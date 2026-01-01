@@ -25,58 +25,58 @@ IDE: VS Code (recommended)
 
 Platform: Linux / Windows
 
-Repository Structure
 DSA-with-Cpp/
 │
 ├── 01_Basics/
 │   ├── input_output.cpp
 │   ├── data_types.cpp
-│   ├── operators.cpp
+│   └── operators.cpp
 │
 ├── 02_Control_Statements/
 │   ├── if_else.cpp
-│   ├── loops.cpp
+│   └── loops.cpp
 │
 ├── 03_Functions/
 │   ├── functions.cpp
-│   ├── recursion.cpp
+│   └── recursion.cpp
 │
 ├── 04_Arrays/
 │   ├── array_basics.cpp
-│   ├── problems.cpp
+│   └── problems.cpp
 │
 ├── 05_Strings/
-│   ├── string_operations.cpp
+│   └── string_operations.cpp
 │
 ├── 06_Recursion/
 │   ├── basic_recursion.cpp
-│   ├── problems.cpp
+│   └── problems.cpp
 │
 ├── 07_Linked_List/
-│   ├── singly_linked_list.cpp
+│   └── singly_linked_list.cpp
 │
 ├── 08_Stack/
-│   ├── stack_using_array.cpp
+│   └── stack_using_array.cpp
 │
 ├── 09_Queue/
-│   ├── queue_using_array.cpp
+│   └── queue_using_array.cpp
 │
 ├── 10_Trees/
-│   ├── binary_tree.cpp
+│   └── binary_tree.cpp
 │
 ├── 11_Searching/
 │   ├── linear_search.cpp
-│   ├── binary_search.cpp
+│   └── binary_search.cpp
 │
 ├── 12_Sorting/
 │   ├── bubble_sort.cpp
 │   ├── selection_sort.cpp
-│   ├── merge_sort.cpp
+│   └── merge_sort.cpp
 │
 ├── 13_Dynamic_Programming/
-│   ├── fibonacci_dp.cpp
+│   └── fibonacci_dp.cpp
 │
 └── README.md
+
 
 Topics Covered
 1. Basics
